@@ -2,7 +2,7 @@
 **Modal × Whisper × GPT-4o × Streamlit**
 貼上 Google Drive 連結 → 自動生成逐字稿 + 時間軸重點摘要
 
-🌐 **線上 Demo**：[https://samchang176--video-analyzer-frontend-run-streamlit.modal.run](https://drive.google.com/file/d/1WlFblTBHrzTmgia5Kc139ptBN5doQY5p/view?usp=sharing)
+🌐 **線上 Demo**：https://drive.google.com/file/d/1WlFblTBHrzTmgia5Kc139ptBN5doQY5p/view?usp=sharing
 
 ---
 
