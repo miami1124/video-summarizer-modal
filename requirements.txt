@@ -1,0 +1,14 @@
+# Google Drive (公開連結下載)
+gdown>=4.7.0
+
+# Audio Processing
+pydub>=0.25.1
+
+# OpenAI
+openai>=1.0.0
+
+# Modal
+modal>=0.60.0
+
+# Utilities
+python-dotenv>=1.0.0
